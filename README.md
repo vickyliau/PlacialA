@@ -1,4 +1,4 @@
-This is a cooperation results with Dr. May Yuan, and has presented in Yuan, M., & Liau, Y.T. (2015). From Spatial Analysis to Placial Analysis. In, the Evolving GIScience workshop in memory of Pete Fisher. University of Leicester, UK 
+This is a cooperation result with Dr. May Yuan, and has presented in Yuan, M., & Liau, Y.T. (2015). From Spatial Analysis to Placial Analysis. In, the Evolving GIScience workshop in memory of Pete Fisher. University of Leicester, UK 
 
 excel files:
 - tulsa_code: tulsa UCC codes to IBR codes
